@@ -1,0 +1,4 @@
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://Xx1:123456@127.0.0.1:888888888888888888888888/eureka/
