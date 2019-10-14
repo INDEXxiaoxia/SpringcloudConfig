@@ -1,4 +1,7 @@
-eureka_url: http://192.168.50.134:8761/eureka/
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://Xx1:123456@127.0.0.1:8761/eureka/
 test_name: TestDataInGitHub改22
 hahaha: Xx1茵夏改1.1.1
 server:
