@@ -3,6 +3,6 @@ eureka:
     serviceUrl:
       defaultZone: http://Xx1:123456@127.0.0.1:8761/eureka/
 test_name: TestDataInGitHub改22
-hahaha: Xx1茵夏改1.1.1.1.1
+hahaha: Xx1茵夏改1.1.1.1.1.2
 server:
-  port: 8882
+  port: 8883
